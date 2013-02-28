@@ -6,7 +6,10 @@ PSI 2012/2013 Hello World
 #NODE.JS (NEEDED):
 http://nodejs.org/
 
-#RUNNING SERVER (NOT NEEDED):
+#SERVER:
+http://130.185.82.193:8080
+
+###RUNNING SERVER (NOT NEEDED):
 1. npm install express nano
 2. node main.js
  
